@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+##欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/mywbh/mywbh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我白天是农民工，晚上就是个有抱负的演员，这是我的博客。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我住在天朝，中原人士，想养条狗。
 
-### Markdown
+希望通过博客记录下生活的点滴，或是流水、或是闷骚、或是炫耀、或是愤青、或是专注、或是愚昧...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这都是一份值得玩味的记忆！
 
-```markdown
-Syntax highlighted code block
+博客为个人博客，始建于2006年6月！域名空间换了N个，程序倒腾了N个，关了N次站，很幸运，还活着！
 
-# Header 1
-## Header 2
-### Header 3
+您可以在这里给我留言、交流，看到后会第一时间回复您，也可以给我发电邮vipwbh[at]gmail.com
 
-- Bulleted
-- List
+标签：八零后，闷骚，宅，农民，互联网，SEO，前端，伪愤青，奶爸...
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mywbh/mywbh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+关注生活，关注互联网；只为成功找方法，不为失败找借口！
